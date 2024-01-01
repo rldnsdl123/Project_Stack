@@ -1,0 +1,3 @@
+[submodule "EQP_LogView"]
+	path = EQP_LogView
+	url = https://github.com/rldnsdl123/EQP_LogView.git
